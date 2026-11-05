@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: add your repo URL here
-- Live Site URL: add your deployed URL here
+- Solution URL: https://github.com/OTAKU-ACE-coder/room-homepage-master
+- Live Site URL: https://otaku-ace-coder.github.io/room-homepage-master/
 
 ## My process
 
@@ -48,4 +48,4 @@ Open `index.html` in a browser. No build step is needed. An internet connection 
 
 ## Author
 
-- Frontend Mentor - Your Name Here
+- GitHub - [OTAKU-ACE-coder](https://github.com/OTAKU-ACE-coder)
